@@ -10,3 +10,6 @@ Used microcontroller - STM32F207ZGT6
 https://www.st.com/en/microcontrollers-microprocessors/stm32f207zg.html
 
 
+
+
+![Screenshot](https://github.com/LTU-EiMs/STM32_UART_Communication/assets/163566510/4e96f849-25e7-4d04-868f-a823911d53b9)
